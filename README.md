@@ -10,7 +10,7 @@ I build and support reliable data pipelines, data quality frameworks, and analyt
 
 ## About
 
-- Senior Associate Consultant at Infosys; previously worked at Infosys and Tata Consultancy Services.
+- Senior Associate Consultant at Infosys; previously worked at Tata Consultancy Services.
 - Develops ETL workflows, data quality checks, warehouse solutions, and operational dashboards.
 - Focuses on SQL and PL/SQL performance, root cause analysis, data validation, and production reliability.
 - Builds independent projects in analytics, machine learning, generative AI, and MLOps.
