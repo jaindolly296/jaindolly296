@@ -1,6 +1,6 @@
 # Hi, I'm Dolly Jain 👋
 
-### Senior Associate Consultant | Data Engineer
+### Senior Associate Consultant | Data Analyst
 
 I build and support reliable data pipelines, data quality frameworks, and analytics solutions. I have 5+ years of experience across ETL development, data warehousing, production support, and business reporting, with hands-on work in AWS Redshift, Oracle, SQL, and Power BI.
 
