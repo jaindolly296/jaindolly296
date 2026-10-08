@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=740&lines=Senior+Associate+Consultant+%40+Infosys;Data+Engineering+%26+Analytics;Building+trusted+pipelines+and+useful+insights" alt="Animated introduction" />
-  <br/>
+  <strong>Senior Associate Consultant · Data Engineering &amp; Analytics</strong><br/>
   <a href="https://www.linkedin.com/in/dollyjain296"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Indore%2C%20India-14B8A6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Indore, India" />
 </div>
