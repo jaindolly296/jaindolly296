@@ -1,67 +1,65 @@
-# Hi, I'm Dolly Jain 👋
+# Dolly Jain
 
-### Senior Associate Consultant | Data Analyst
+### Senior Associate Consultant at Infosys · Data Engineering & Analytics
 
-I build and support reliable data pipelines, data quality frameworks, and analytics solutions. I have 5+ years of experience across ETL development, data warehousing, production support, and business reporting, with hands-on work in AWS Redshift, Oracle, SQL, and Power BI.
+I build dependable data pipelines and analytics solutions that help teams trust their data and act on it. My experience spans ETL development, data quality, data warehousing, production support, and business reporting, with hands-on work across AWS Redshift, Oracle, SQL, and Power BI.
 
-📍 Indore, India · [LinkedIn](https://www.linkedin.com/in/dollyjain296)
+**Indore, India** · [Connect on LinkedIn](https://www.linkedin.com/in/dollyjain296)
 
 ---
 
-## About
+## Impact
 
-- Senior Associate Consultant at Infosys; previously worked at Tata Consultancy Services.
-- Develops ETL workflows, data quality checks, warehouse solutions, and operational dashboards.
-- Focuses on SQL and PL/SQL performance, root cause analysis, data validation, and production reliability.
-- Builds independent projects in analytics, machine learning, generative AI, and MLOps.
+| **40%** | **50%** | **25%** | **8 hrs/week** |
+|:---:|:---:|:---:|:---:|
+| Less manual data validation | Faster alert triage | Faster ETL processing | Manual effort saved through automation |
 
-## Skills
+*Selected outcomes from my professional experience.*
 
-**Data engineering:** ETL, data warehousing, data integration, data quality, dimensional modeling, incremental and historical loads  
-**Data platforms:** AWS Redshift, Oracle 11g, Teradata  
-**Query and performance:** SQL, PL/SQL, query optimization, AWR analysis, root cause analysis  
-**Analytics and reporting:** Power BI, Tableau, MicroStrategy, Python  
-**Delivery:** Jenkins, CI/CD, production support
+## What I Do
 
-## Projects
+- **Data engineering:** ETL workflows, data integration, data warehousing, dimensional modeling, incremental and historical loads
+- **Data quality and reliability:** automated validation, root-cause analysis, production support, SLA-focused delivery
+- **Analytics and reporting:** SQL, PL/SQL, Power BI, Tableau, MicroStrategy, Python
+- **Platforms and delivery:** AWS Redshift, Oracle, Teradata, Jenkins, CI/CD
 
-| Project | Overview |
+## Featured Projects
+
+| Project | What it demonstrates |
 | --- | --- |
-| [AI PDF Question Answering System](https://github.com/jaindolly296/AI-PDF-QA-System) | Ask natural-language questions about uploaded PDFs with LangChain, embeddings, and retrieval-augmented generation. |
-| [AI Resume ATS Analyzer](https://github.com/jaindolly296/AI-Resume-ATS-Analyzer) | Analyze resume fit against a job description, including ATS scoring, missing keywords, and improvement suggestions. |
-| [DeepCSAT: E-Commerce Customer Satisfaction Prediction](https://github.com/jaindolly296/DeepCSAT-Ecommerce-CSAT-Prediction) | Predict support satisfaction scores using data preparation, feature engineering, neural networks, and model evaluation. |
-| [DeepFER: Facial Emotion Recognition](https://github.com/jaindolly296/DeepFER-Facial-Emotion-Recognition) | Classify facial expressions into seven categories using deep learning and transfer learning. |
-| [Glassdoor Salary Prediction](https://github.com/jaindolly296/Glassdoor_Salary_Prediction) | Explore job listings, predict salary ranges, and provide career insights with machine learning. |
-| [Innovexify Tech Website](https://github.com/jaindolly296/innovexify-tech-website) | Company website built with Next.js. |
-| [Integrated Retail Analytics](https://github.com/jaindolly296/Integrated-Retail-Analytics-for-Store-Optimization) | Analyze retail sales, detect anomalies, segment stores, study department associations, and forecast demand. |
-| [IT Support Chatbot](https://github.com/jaindolly296/it-support-chatbot) | Fine-tune a compact language model with LoRA and serve IT help through a Gradio chat interface. |
-| [Paisabazaar Banking Fraud and Credit Risk Analysis](https://github.com/jaindolly296/Paisabazaar_Banking_Fraud) | Analyze banking and loan data for fraud indicators, credit risk, and repayment patterns. |
-| [Tata Motors Integrated Operations Analysis](https://github.com/jaindolly296/Tata-Motors-Integrated-Operations-Analysis-main) | Combine SQL, Excel, Power BI, and n8n automation for logistics and operations analytics. |
-| [Travel Intelligence MLOps](https://github.com/jaindolly296/travel-intelligence-mlops) | Flight and hotel price prediction with API, dashboard, orchestration, experiment tracking, and deployment components. |
-| [Amazon Prime TV Shows and Movies Analysis](https://github.com/jaindolly296/TV-Shows-and-Movies-Analysis) | Clean and explore streaming catalog data, then summarize content trends with visualizations. |
+| [Travel Intelligence MLOps](https://github.com/jaindolly296/travel-intelligence-mlops) | End-to-end travel price prediction with APIs, orchestration, experiment tracking, dashboards, and deployment components. |
+| [Integrated Retail Analytics](https://github.com/jaindolly296/Integrated-Retail-Analytics-for-Store-Optimization) | Retail analysis spanning demand forecasting, store segmentation, anomaly detection, and product associations. |
+| [Tata Motors Operations Analysis](https://github.com/jaindolly296/Tata-Motors-Integrated-Operations-Analysis-main) | SQL, Excel, Power BI, and workflow automation applied to logistics and operations analytics. |
+| [AI PDF Question Answering](https://github.com/jaindolly296/AI-PDF-QA-System) | Document question answering using LangChain, embeddings, and retrieval-augmented generation. |
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+- [AI Resume ATS Analyzer](https://github.com/jaindolly296/AI-Resume-ATS-Analyzer) — Resume-to-job matching, ATS scoring, keyword gaps, and improvement suggestions.
+- [DeepCSAT: E-Commerce Satisfaction Prediction](https://github.com/jaindolly296/DeepCSAT-Ecommerce-CSAT-Prediction) — Neural-network modeling and evaluation for customer satisfaction.
+- [DeepFER: Facial Emotion Recognition](https://github.com/jaindolly296/DeepFER-Facial-Emotion-Recognition) — Deep-learning classification of seven facial-expression categories.
+- [Glassdoor Salary Prediction](https://github.com/jaindolly296/Glassdoor_Salary_Prediction) — Salary estimation and career insights from job listing data.
+- [Innovexify Tech Website](https://github.com/jaindolly296/innovexify-tech-website) — Company website built with Next.js.
+- [IT Support Chatbot](https://github.com/jaindolly296/it-support-chatbot) — IT help chatbot using a compact language model, LoRA, and Gradio.
+- [Paisabazaar Banking Fraud and Credit Risk Analysis](https://github.com/jaindolly296/Paisabazaar_Banking_Fraud) — Banking and loan data analysis for fraud signals and credit risk.
+- [Amazon Prime Catalog Analysis](https://github.com/jaindolly296/TV-Shows-and-Movies-Analysis) — Streaming catalog exploration and visualization.
+
+</details>
 
 ## Experience
 
-- **Senior Associate Consultant, Infosys** · Jun 2024–Present
-  - Built an AWS Redshift data quality framework that reduced manual validation by 40%, alert triage by 50%, and false positives by 35%.
-  - Automated 20+ checks and reporting tasks, saving about 8 hours of manual effort each week.
-  - Improved ETL processing speed by 25% and maintained 100% SLA compliance for daily reporting loads.
-- **Associate Business Analyst, Infosys** · Aug 2022–Jun 2024
-  - Improved data accuracy to 99%, reduced critical reporting issues by 20%, and delivered 15+ validated datasets.
-- **System Engineer, Tata Consultancy Services** · Apr 2021–Aug 2022
-  - Tuned Oracle PL/SQL and SQL workloads, improving processing speed by 20% and reducing production incidents by 25%.
+- **Senior Associate Consultant · Infosys** — Jun 2024–Present  
+  Built AWS Redshift data-quality controls that reduced manual validation by 40% and alert triage by 50%; automated 20+ checks, saving about 8 hours each week.
+- **Associate Business Analyst · Infosys** — Aug 2022–Jun 2024  
+  Improved data accuracy to 99%, reduced critical reporting issues by 20%, and delivered 15+ validated datasets.
+- **System Engineer · Tata Consultancy Services** — Apr 2021–Aug 2022  
+  Tuned Oracle SQL and PL/SQL workloads, improving processing speed by 20% and reducing production incidents by 25%.
 
-## Certifications
+## Certifications & Education
 
-- Certified Scrum Master (CSM)
-- Lean Six Sigma Black Belt
-- Lean Six Sigma Green Belt
-
-## Education
-
-**Bachelor of Engineering, Information Technology**  
-Medicaps Institute of Science & Technology · 2015–2019
+**Certifications:** Certified Scrum Master (CSM) · Lean Six Sigma Black Belt · Lean Six Sigma Green Belt  
+**Education:** Bachelor of Engineering, Information Technology · Medicaps Institute of Science & Technology
 
 ---
 
-Thanks for visiting. Explore the repositories above to see the project details and implementation.
+[LinkedIn](https://www.linkedin.com/in/dollyjain296) · Browse the repositories above to explore the work.
