@@ -30,18 +30,17 @@ I enjoy taking data work from ingestion and validation through reliable delivery
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="AWS Redshift" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/SQL%20%7C%20PL%2FSQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL and PL/SQL" />
+  <img src="https://img.shields.io/badge/Oracle%2011g-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle 11g" />
+  <img src="https://img.shields.io/badge/Teradata-F15F2C?style=for-the-badge&logo=teradata&logoColor=white" alt="Teradata" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Tableau-1F4E79?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/MicroStrategy-CC0000?style=for-the-badge&logoColor=white" alt="MicroStrategy" />
 </p>
 
-- **Data engineering:** ETL, data integration, warehousing, dimensional modeling, incremental and historical loads
-- **Quality & reliability:** automated validation, root-cause analysis, production support, SLA-focused delivery
-- **Analytics:** Power BI, Tableau, MicroStrategy, Python, business reporting
-- **Platforms:** AWS Redshift, Oracle 11g, Teradata
+- **Data engineering:** ETL development, data warehousing, data quality frameworks, data integration, dimensional data modeling, historical and incremental loads, data pipelines
+- **Data platforms:** AWS Redshift, Oracle 11g, Teradata
+- **BI and reporting:** Power BI, Tableau, MicroStrategy
+- **Performance optimization:** SQL query optimization, PL/SQL performance tuning, AWR analysis, root-cause analysis
 
 ## 🚀 Featured Work
 
